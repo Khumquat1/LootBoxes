@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: LootBoxes.aux
+The style file: plain.bst
+Database file #1: citelist.bib
+You've used 17 entries,
+            2118 wiz_defined-function locations,
+            598 strings with 6425 characters,
+and the built_in function-call counts, 4196 in all, are:
+= -- 376
+> -- 197
+< -- 0
++ -- 81
+- -- 62
+* -- 243
+:= -- 718
+add.period$ -- 42
+call.type$ -- 17
+change.case$ -- 82
+chr.to.int$ -- 0
+cite$ -- 17
+duplicate$ -- 144
+empty$ -- 375
+format.name$ -- 62
+if$ -- 873
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 7
+newline$ -- 79
+num.names$ -- 34
+pop$ -- 125
+preamble$ -- 1
+purify$ -- 65
+quote$ -- 0
+skip$ -- 132
+stack$ -- 0
+substring$ -- 150
+swap$ -- 16
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 66
+warning$ -- 0
+while$ -- 38
+width$ -- 19
+write$ -- 158
